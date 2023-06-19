@@ -18,4 +18,5 @@ Nesse curso voce vai dominar todo **git** e **github** do _zero ao profissional_
 
 [Youtube](https://www.youtube.com/channel/UCWR0groSBcRWUFcumy-uOXA)
 
+> Este é um blockquote, usado para destacar alguma área
 
