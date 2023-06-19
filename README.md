@@ -3,9 +3,8 @@
 # Bem vindo ao curso de Git e GitHub
 Nesse curso voce vai dominar todo **git** e **github** do _zero ao profissional_
 
-**Bem Vindo**
-[Bem vindo](#bem-vindo-ao-curso-de-git-e-github)
-[Módulos](#módulos)
+
+[Bem vindo](#bem-vindo-ao-curso-de-git-e-github) | [Módulos](#módulos)
 
 
 
