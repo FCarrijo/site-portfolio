@@ -23,6 +23,5 @@ Nesse curso voce vai dominar todo **git** e **github** do _zero ao profissional_
 
 Propriedade | Descrição
 -------------- | ---------
-name | informar o nome do usuário
-size | para definir o tamanho do campo
-
+name | informar o **nome** do usuário
+size | para definir o _tamanho_ do campo
